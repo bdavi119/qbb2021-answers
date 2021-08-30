@@ -1,0 +1,10 @@
+total 10736
+-rw-r--r--  1 cmdb  staff   386379 30 Aug 12:27 K27me3.bed
+-rw-r--r--  1 cmdb  staff   252686 30 Aug 12:27 K4me3.bed
+-rw-r--r--  1 cmdb  staff   168545 30 Aug 12:27 K9me3.bed
+-rw-r--r--  1 cmdb  staff    14725 30 Aug 12:27 LADs_Kc.bed
+-rw-r--r--@ 1 cmdb  staff       62 30 Aug 12:28 README.md
+-rw-r--r--  1 cmdb  staff  1197097 30 Aug 12:27 S2_9state.bed
+-rw-r--r--  1 cmdb  staff        0 30 Aug 12:30 directory.txt
+-rw-r--r--  1 cmdb  staff    45055 30 Aug 12:27 dm6.chrom.sizes
+-rw-r--r--  1 cmdb  staff  3415063 30 Aug 12:27 fbgenes.bed
