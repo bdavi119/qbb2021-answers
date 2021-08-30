@@ -1,0 +1,7 @@
+    7516 K27me3.bed
+    4909 K4me3.bed
+    3316 K9me3.bed
+     412 LADs_Kc.bed
+   21896 S2_9state.bed
+   30718 fbgenes.bed
+   68767 total
