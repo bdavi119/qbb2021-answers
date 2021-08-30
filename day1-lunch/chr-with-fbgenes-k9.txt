@@ -1,0 +1,7 @@
+ 824 chr2L
+ 772 chr2R
+ 801 chr3L
+ 669 chr3R
+ 268 chr4
+1093 chrX
+   5 chrY
