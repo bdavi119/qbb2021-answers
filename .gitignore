@@ -1,1 +1,17 @@
 *.fastq
+*.bam
+*.sam
+*.fq
+*.bed
+*.vcf
+*.bcf
+*.fasta
+*.fa
+*.fna
+*.fra
+*.faa
+*.gff*
+*.gtf
+*.fai
+*.seq
+*.gz
