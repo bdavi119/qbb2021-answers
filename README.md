@@ -1,14 +1,3 @@
 # qbb2021-answers
 
-## TA dogs
-* Gibbs
-* Chela
-* Duke
-
-## Instructor dogs
-* Janie
-* Barnaby
-
-## My geckos
-* Leo
-* Lisa
+This is Brendon Davis' answers repository for the 2021 CMDB Bootcamp.
