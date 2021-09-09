@@ -27,7 +27,7 @@ def main():
     ctab = open(args[2])
     header = True
     for gene in ctab:
-        parsed_gene = gene.split('\t')
+        parsed_gene = gene.strip().split('\t') # Forgot strip() in previous version
         
         # This edits the header line instead of looking for gene_id
         if header:

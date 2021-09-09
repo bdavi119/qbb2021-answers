@@ -34,9 +34,7 @@ def main():
         genes.pop(idx)
         print("The number {} nearest gene is {}, which runs from positions {} to {}. "
                "It is {} base pairs from your position. This took {} "
-               "iterations.\n".format(i+1, *closest))
-        print()
-
+               "iterations.".format(i+1, *closest))
     
     
 if __name__ == '__main__':
