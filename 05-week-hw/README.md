@@ -59,9 +59,9 @@ $`conda activate chipseq`
 $`meme-chip -oc motifs-discovered -maxw 20 seqs_for_motif_finding.fasta`  
 $`tomtom -png -oc tomtom-out motifs-discovered/meme_out/meme.txt motif-data/MA*`  
 $`cp tomtom-out/align_RCCACYAGRKGGCRS_134_+MA0139.1.png .`  
-$`mv tomtom-out/align_RCCACYAGRKGGCRS_134_+MA0139.1.png best_match.png`  
+$`mv tomtom-out/align_RCCACYAGRKGGCRS_134_+MA0139.1.png best_match_logo.png`  
 
-Looking at the three matches found, MA0139.1 gave the best p-value (6.93e-26), so I saved it's logo comparison in the main working directory as `best_match.png`.
+Looking at the three matches found, MA0139.1 gave the best p-value (6.93e-26), so I saved it's logo comparison in the main working directory as `best_match_logo.png`.
 
 ## Submitting
 
@@ -70,6 +70,3 @@ $`mkdir bed-files-for-submit`
 $`cp G1E-peaks/filtered.narrowPeak bed-files-for-submit/G1E_peaks.narrowPeak`  
 $`cp ER4-peaks/filtered.narrowPeak bed-files-for-submit/ER4_peaks.narrowPeak`  
 $`cp diff/* bed-files-for-submit/`  
-
-
-
