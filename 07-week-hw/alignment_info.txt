@@ -1,0 +1,14 @@
+Running my code on the amino acid sequences printed:
+
+The sequence similarity is 3801.
+Sequence 1 has 9 gaps.
+Sequence 2 has 0 gaps.
+There are 6 direct mismatches.
+
+
+Running my code on the DNA sequences printed:
+
+The sequence similarity is 266300.
+Sequence 1 has 46 gaps.
+Sequence 2 has 78 gaps.
+There are 341 direct mismatches.
