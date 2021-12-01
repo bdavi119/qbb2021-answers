@@ -1,2 +1,2 @@
 Percentage of significant genes that are also detected when controlling for sex:
-98.787 %
+97.755 %
