@@ -1,3 +1,6 @@
+Regrade 12/4/21 - SC 
+- Looks awesome, Brendon, thanks for making those changes! 7/7
+
 - QQ plot looks good - just wanted you to know you can also use log10pvalues for the axes instead of quantiles 
 - Your MAF histogram looks like the y-axis values are doubled... try again? (-0.5) 
 - Manhattan correctly has significant p-values tagged in red, but there are additional red dots along the bottom of the chart... try again (-0.5) 
