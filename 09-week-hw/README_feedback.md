@@ -1,0 +1,3 @@
+This is good! For the QQ plots, the expected distribution is not a normal distribution. Under the null hypothesis, the expected distribution of the p-values is a uniform distribution (think about it, for any given alpha, you would expect the same proportion of p-values to be below that alpha, just by chance). Currently, you're comparing your p-values to a normal distribution, which doesn't make a ton of sense. (-1) I also think you're grabbing the wrong pvalues from the results. It looks like you're grabbing the p-value of the intercept, rather than that of stage. This is also probably why your volcano plot does not look as it should. (-1)
+
+5/7
